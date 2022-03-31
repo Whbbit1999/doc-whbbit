@@ -26,7 +26,15 @@ const sidebar = {
     { text: "其他", link: "/markdown/other" },
   ],
 
-  "/other/": [{ text: "qrcode", link: "/other/qrcode" }],
+  "/other/": [
+    { text: "qrcode", link: "/other/qrcode" },
+    { text: "axios", link: "/other/axios" },
+    { text: "lodash", link: "/other/lodash" },
+    { text: "moment", link: "/other/moment" },
+    { text: "dayjs", link: "/other/dayjs" },
+    { text: "qs", link: "/other/qs" },
+    { text: "uuid", link: "/other/uuid" },
+  ],
 };
 
 export default sidebar;

@@ -2,26 +2,16 @@
 home: true
 heroImage: /logo.png
 heroAlt: Logo image
-heroText: Hero Title
-tagline: Hero subtitle
+heroText: 月空人
+tagline: Whbbit-文档整理
 actionText: Get Started
-actionLink: /about/about1
+actionLink: /html/
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+  - title:
+    details:
+  - title:
+    details:
+  - title:
+    details:
 footer: MIT Licensed | Copyright © 2019-present Whbbit
 ---
-
-卡片，这里可以对常用的一些地址进行跳转
-
-<w-button />

@@ -2,12 +2,12 @@ import nav from "./nav";
 import sidebar from "./sidebar";
 
 const config = {
-  title: "月空人",
+  title: "whbbit-docs",
   description: "",
   base: "",
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/logo.png" }]],
   themeConfig: {
-    logo: "",
+    logo: "/logo.png",
     algolia: {
       indexName: "",
       appId: "",

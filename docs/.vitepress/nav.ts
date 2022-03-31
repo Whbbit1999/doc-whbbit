@@ -2,8 +2,8 @@ const nav = [
   {
     text: "html/css",
     items: [
-      { text: "html", link: "/html" },
-      { text: "css", link: "/css" },
+      { text: "html", link: "/html/" },
+      { text: "css", link: "/css/" },
     ],
   },
   {
@@ -17,6 +17,10 @@ const nav = [
   {
     text: "其他",
     link: "/other/",
+  },
+  {
+    text: "GitHub",
+    link: "https://github.com/Whbbit1999",
   },
 ];
 export default nav;
