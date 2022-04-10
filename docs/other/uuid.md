@@ -2,13 +2,13 @@
 
 ## uuid 简单使用
 
-**安装**
+### **安装**
 
 ```bash
 npm install uuid
 ```
 
-**创建一个 uuid**
+### **创建一个 uuid**
 
 - 使用 `ES6 Module` 引入
 
@@ -39,3 +39,12 @@ uuidv4(); // =>"c0fa9840-4fd2-4531-84f1-41359d836087"
 | uuid.v5()        | 生成一个 5 版本的 uuid（namespace w/SHA-1）    |                 | ｜                                     |
 | uuid.validate()  | 测试一个字符串是否是一个符合 uuid 规则的字符串 | New in uuid@8.3 | ｜                                     |
 | uuid.version()   | 检测 UUID 的 RFC 版本                          | New in uuid@8.3 | ｜                                     |
+
+## 官方网址
+
+[npmjs.com](https://www.npmjs.com/package/uuid)  
+[GitHub](https://github.com/uuidjs/uuid#readme)
+
+## 推介文章
+
+暂无

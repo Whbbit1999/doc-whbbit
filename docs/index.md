@@ -41,6 +41,7 @@ footer: MIT Licensed | Copyright © 2022-present Whbbit
 <w-link-wrapper :links="
 [
   {label: 'vscode', link: '/vscode/'},
+  {label: '其他', link: '/other/'},
   {label: '收藏', link: '/site/'},
 ]
 " />

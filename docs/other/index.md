@@ -7,14 +7,13 @@ sidebar: false
 <w-link-wrapper :links="
   [
     {label: '生成二维码 qrcode', link: '/other/qrcode.html'},
-    {label: 'momentjs', link: '#'},
-    {label: 'dayjs', link: '#'},
+    {label: 'moment&dayjs', link: '/other/moment&dayjs'},
     {label: 'axios', link: '/other/axios.html'},
     {label: 'lodash', link: '#'},
     {label: 'mathjs', link: '#'},
     {label: 'qs', link: '#'},
-    {label: 'uuid', link: '#'},
-    {label: 'nrm', link: '#'},
+    {label: 'uuid', link: '/other/uuid.html'},
+    {label: 'nrm', link: '/other/nrm.html'},
   ]
   " />
 
