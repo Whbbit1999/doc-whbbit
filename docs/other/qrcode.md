@@ -74,3 +74,11 @@ setTimeout(() => {
   }
 }, 300);
 ```
+
+## 使用 es6 格式生成二维码
+
+### 安装
+
+```bash
+yarn add qrcode
+```

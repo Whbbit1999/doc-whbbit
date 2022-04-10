@@ -18,6 +18,7 @@ const config = {
       { icon: "twitter", link: "https://twitter.com/vuejs" },
       { icon: "discord", link: "https://discord.com/invite/HBherRA" },
     ],
+    lastUpdated: "最近更新时间",
     sidebar,
     nav,
   },

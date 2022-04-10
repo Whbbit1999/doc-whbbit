@@ -1,21 +1,16 @@
 const sidebar = {
-  // "/": [
-  //   { text: "快速开始", link: "/" },
-  //   { text: "通用", children: [{ text: "按钮", link: "/components/button/" }] },
-  // ],
+  "/html/": [{ text: "html", link: "/html/" }],
+  "/css/": [{ text: "css", link: "/css/" }],
+  // "/javascript/": [{ text: "javascript", link: "/javascript/" }],
+  // "/typescript/": [{ text: "typescript", link: "/typescript/" }],
+  // "/vue/": [{ text: "vue", link: "/vue/" }],
 
-  "/html/": [{ text: "", link: "" }],
-  "/css/": [{ text: "", link: "" }],
-  "/javascript/": [{ text: "", link: "" }],
-  "/typescript/": [{ text: "", link: "" }],
-  "/vue/": [{ text: "", link: "" }],
+  // "/nodejs/": [{ text: "", link: "" }],
+  // "/express/": [{ text: "", link: "" }],
+  // "/nestjs/": [{ text: "", link: "" }],
 
-  "/nodejs/": [{ text: "", link: "" }],
-  "/express/": [{ text: "", link: "" }],
-  "/nestjs/": [{ text: "", link: "" }],
-
-  "/mongodb/": [{ text: "", link: "" }],
-  "/mysql/": [{ text: "", link: "" }],
+  // "/mongodb/": [{ text: "", link: "" }],
+  // "/mysql/": [{ text: "", link: "" }],
 
   "/markdown/": [
     { text: "简介", link: "/markdown/" },
@@ -26,15 +21,15 @@ const sidebar = {
     { text: "其他", link: "/markdown/other" },
   ],
 
-  "/other/": [
-    { text: "qrcode", link: "/other/qrcode" },
-    { text: "axios", link: "/other/axios" },
-    { text: "lodash", link: "/other/lodash" },
-    { text: "moment", link: "/other/moment" },
-    { text: "dayjs", link: "/other/dayjs" },
-    { text: "qs", link: "/other/qs" },
-    { text: "uuid", link: "/other/uuid" },
-  ],
+  // "/other/": [
+  //   { text: "qrcode", link: "/other/qrcode" },
+  //   { text: "axios", link: "/other/axios" },
+  //   { text: "lodash", link: "/other/lodash" },
+  //   { text: "moment", link: "/other/moment" },
+  //   { text: "dayjs", link: "/other/dayjs" },
+  //   { text: "qs", link: "/other/qs" },
+  //   { text: "uuid", link: "/other/uuid" },
+  // ],
 };
 
 export default sidebar;

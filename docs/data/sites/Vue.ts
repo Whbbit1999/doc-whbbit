@@ -41,7 +41,16 @@ export default [
     desc: "轻量、可靠的移动端 Vue 组件库",
     img: "/public/youzan.github.io.png",
 
-    tag: ["Vue3", "UI库"],
+    tag: ["Vue3", "UI库", "移动端"],
+    category: "Vue",
+  },
+  {
+    title: "varlet",
+    link: "https://varlet.gitee.io/varlet-ui/#/zh-CN/home",
+    desc: "面向 Vue3 的 Material 风格移动端组件库",
+    img: "",
+
+    tag: ["Vue3", "UI库", "移动端"],
     category: "Vue",
   },
 ];

@@ -1,10 +1,27 @@
-## 一些常用的 node.js 包的使用
+---
+sidebar: false
+---
 
-- [qrcode](/other/qrcode.html) - 生成二维码
-- momentjs - 时间处理
-- dayjs
-- [axios](/other/axios.html) - 基于 Promise 的 HTTP 请求库
-- lodash
-- mathjs
-- qs
-- uuid
+## 常用的 node.js 包的使用
+
+<w-link-wrapper :links="
+  [
+    {label: '生成二维码 qrcode', link: '/other/qrcode.html'},
+    {label: 'momentjs', link: '#'},
+    {label: 'dayjs', link: '#'},
+    {label: 'axios', link: '/other/axios.html'},
+    {label: 'lodash', link: '#'},
+    {label: 'mathjs', link: '#'},
+    {label: 'qs', link: '#'},
+    {label: 'uuid', link: '#'},
+    {label: 'nrm', link: '#'},
+  ]
+  " />
+
+## GitHub 项目
+
+<w-link-wrapper :links="
+  [
+    {label: '30 seconds of code', link: 'https://github.com/30-seconds/30-seconds-of-code',blank: true},
+  ]
+" />
