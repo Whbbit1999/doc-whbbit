@@ -47,3 +47,9 @@
 | 快捷键 win | 快捷键 mac | 功能描述 |
 | :--------- | :--------- | :------- |
 |            |            |          |
+
+## vscode 设置
+
+### 鼠标平滑移动
+
+找到设置里的光标一项，把 `editor.cursorSmoothCaretAnimation` 设置为 true 即可

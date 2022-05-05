@@ -1,4 +1,4 @@
-const nav = [
+export default [
   // {
   //   text: "前端相关",
   //   items: [
@@ -30,4 +30,3 @@ const nav = [
   //   link: "https://github.com/Whbbit1999",
   // },
 ];
-export default nav;
