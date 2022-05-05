@@ -11,19 +11,19 @@
 
 ### 界面语言
 
-- [Chinese(Simplified)](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+- 简体中文 [Chinese(Simplified)](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
 
 ### 前端开发
 
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier - code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Vue Language Features(Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
-- [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
-- [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- 自动闭合标签 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- 更改标签名称时自动更改对应的结束或开始标签 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- 启动本地服务器预览 html 界面 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- env 文件内容高亮 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- js 格式化插件 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- js 格式化插件 [Prettier - code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- vue3 插件 [Vue Language Features(Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- 国际化插件 [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+- 查看引入的包的大小 [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 ### 接口测试
 
@@ -33,6 +33,7 @@
 
 - [DevPro - High Contrast](https://marketplace.visualstudio.com/items?itemName=koprodev.theme-devpro-hc)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Firefox Theme](https://marketplace.visualstudio.com/items?itemName=Heron.firefox-devtools-theme)
 
 ### 工作管理
 
@@ -44,9 +45,12 @@
 
 ## 快捷键
 
-| 快捷键 win | 快捷键 mac | 功能描述 |
-| :--------- | :--------- | :------- |
-|            |            |          |
+| 快捷键 win | 快捷键 mac   | 功能描述                     |
+| :--------- | :----------- | :--------------------------- |
+| ctrl + b   | command + b  | 关闭侧边栏                   |
+| ctrl + \`  | command + \` | 打开终端                     |
+| ctrl + f   | command + f  | 查找                         |
+| ctrl + d   | command + d  | 选择与当前选中项相同的下一个 |
 
 ## vscode 设置
 

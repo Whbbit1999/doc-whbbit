@@ -1,5 +1,7 @@
 ## HTML
 
+> 这是我入门前端时记录的笔记，供诸君参阅。
+
 ### 简介
 
 HTML（hyperText markup language 超文本标记语言）是网页的基石。如果网页是一个动物的话，那么 html 就是骨架。

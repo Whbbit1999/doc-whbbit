@@ -38,7 +38,14 @@ footer: MIT Licensed | Copyright © 2022-present Whbbit
 <w-link-wrapper :links="[
   {label: 'markdown', link: '/markdown/'},
   {label: 'vscode', link: '/vscode/'},
-  {label: '其他', link: '/other/'},
-  {label: '收藏', link: '/site/'},
+  {label: '常用node包及开源项目', link: '/other/'},
+  {label: '网站收藏', link: '/site/'},
   {label: '个人计划', link: '/plan/'},
+]" />
+
+### 友链
+
+<w-link-wrapper :links="[
+  {label: '@ 后盾人', link: 'https://doc.houdunren.com/', blank: true},
+  {label: '@ 峰华', link: 'https://zxuqian.cn/', blank: true},
 ]" />

@@ -6,7 +6,7 @@ sidebar: false
 
 <w-link-wrapper :links="
   [
-    {label: '生成二维码 qrcode', link: '/other/qrcode.html'},
+    {label: 'qrcode', link: '/other/qrcode.html'},
     {label: 'axios', link: '/other/axios.html'},
     {label: 'lodash', link: '#'},
     {label: 'mathjs', link: '#'},
@@ -16,10 +16,11 @@ sidebar: false
   ]
   " />
 
-## GitHub 项目
+## GitHub 开源项目
 
 <w-link-wrapper :links="
   [
     {label: '30 seconds of code', link: 'https://github.com/30-seconds/30-seconds-of-code',blank: true},
+    {label: 'VueUse', link: 'https://github.com/vueuse/vueuse',blank: true},
   ]
 " />
