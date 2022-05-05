@@ -20,6 +20,7 @@ footer: MIT Licensed | Copyright © 2022-present Whbbit
   {label: 'React.js', link: '/react/react/'},
   {label: 'styled-components', link: '/react/StyledComponents/'},
   {label: '小程序', link: '/miniprogram/'},
+  {label: 'vite', link: '/vite/'},
 ]" />
 
 ### 后端部分
